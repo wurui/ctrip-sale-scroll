@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="demo.xsl"?>
+<root>
+    <env>
+        <domain>local</domain>
+    </env>
+    <login>
+        <uid>git/wurui</uid>
+    </login>
+    <p>
+        <title>demo page</title>
+        <desc>this is deme page</desc>
+        <owner>openxsl</owner>
+        <icon>//oxm1.cc/img/app_default.png</icon>
+    </p>
+    <data>
+            <table-menu>
+        <i>
+            <icon>
+                //a.oxm1.cc/img/fox.jpg
+            </icon>
+            <title>
+                good watch
+            </title>
+            <tag>
+                mobilephone
+            </tag>
+            <color>
+                wallet
+            </color>
+            <href>
+                //a.oxm1.cc/img/fox.jpg
+            </href>
+        </i>
+        <i>
+            <icon>
+                //a.oxm1.cc/img/fox.jpg
+            </icon>
+            <title>
+                screen
+            </title>
+            <tag>
+                wallet
+            </tag>
+            <color>
+                laptop
+            </color>
+            <href>
+                //a.oxm1.cc/img/fox.jpg
+            </href>
+        </i>
+        <i>
+            <icon>
+                //a.oxm1.cc/img/fox.jpg
+            </icon>
+            <title>
+                nice laptop
+            </title>
+            <tag>
+                laptop
+            </tag>
+            <color>
+                powerful car
+            </color>
+            <href>
+                //a.oxm1.cc/img/fox.jpg
+            </href>
+        </i>
+    </table-menu>
+    </data>
+</root>
