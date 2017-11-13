@@ -14,58 +14,42 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-            <table-menu>
-        <i>
-            <icon>
-                //a.oxm1.cc/img/fox.jpg
-            </icon>
-            <title>
-                good watch
-            </title>
-            <tag>
-                mobilephone
-            </tag>
-            <color>
-                wallet
-            </color>
-            <href>
-                //a.oxm1.cc/img/fox.jpg
-            </href>
-        </i>
-        <i>
-            <icon>
-                //a.oxm1.cc/img/fox.jpg
-            </icon>
-            <title>
-                screen
-            </title>
-            <tag>
-                wallet
-            </tag>
-            <color>
-                laptop
-            </color>
-            <href>
-                //a.oxm1.cc/img/fox.jpg
-            </href>
-        </i>
-        <i>
-            <icon>
-                //a.oxm1.cc/img/fox.jpg
-            </icon>
-            <title>
-                nice laptop
-            </title>
-            <tag>
-                laptop
-            </tag>
-            <color>
-                powerful car
-            </color>
-            <href>
-                //a.oxm1.cc/img/fox.jpg
-            </href>
-        </i>
-    </table-menu>
+        <table-menu>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9eopu2aTj9xobrniR5xetA3nev-667.jpg</icon>
+                <title>景点榜单</title>
+                <tag>必去的20个景点</tag>
+                <color></color>
+                <href></href>
+            </i>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9eqvnhaTj9xm5y8iRvbf3A14ul-750.jpg</icon>
+                <title>玩乐榜单</title>
+                <tag>跟着大家玩</tag>
+                <color></color>
+                <href></href>
+            </i>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9eoprejTj9xobub9R51tdAkwx-750.jpg</icon>
+                <title>出境游榜单</title>
+                <tag>玩转全球</tag>
+                <color></color>
+                <href></href>
+            </i>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9eopn51Tj9xobykrRps2sA982m-596.jpg</icon>
+                <title>国内线路榜</title>
+                <tag>玩遍中国</tag>
+                <color></color>
+                <href></href>
+            </i>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9eopslnTj9xobt45Rzj3bAwri-770.jpg</icon>
+                <title>自驾游榜单</title>
+                <tag>有车一族的选择</tag>
+                <color></color>
+                <href></href>
+            </i>
+        </table-menu>
     </data>
 </root>
