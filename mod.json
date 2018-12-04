@@ -1,6 +1,10 @@
 {
   "name": "ctrip-sale-scroll",
   "version": "0.0.1",
-  "apiDependencies": ["table-menu"]
+  "apiDependencies": [
+  	{
+  		"name":"ui-entry"
+  	}
+  ]
 }
 
